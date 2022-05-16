@@ -9,6 +9,8 @@ res = res*2
 res = res/3
 print(res)
 
+print(res+hejhej)
+
 for fruit in list_of_fruits:
     print(fruit)
 
