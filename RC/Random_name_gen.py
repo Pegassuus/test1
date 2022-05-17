@@ -1,4 +1,4 @@
 import random
 
-foo = ['Mummi', 'Mamma', "Aries", 'qe', 'aa']
+foo = ['...', '...', "...", '...', '...']
 print(random.choice(foo))
