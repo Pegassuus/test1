@@ -1,18 +1,8 @@
-#This is the first for loop program
+b = """Lorem ipsum dolor sit amet,
+consectetur adipiscing elit,
+sed do eiusmod tempor incididunt
+ut labore et dolore magna aliqua."""
 
-list_of_fruits = ["apple", "banana", "cherry"]
 
-hejhej = 1
-res = hejhej + 123
-
-res = res*2
-res = res/3
-print(res)
-
-print(res+hejhej)
-
-for fruit in list_of_fruits:
-    print(fruit)
-
-    for mycharacter in fruit:
-        print(mycharacter)
+print(b)
+print(type(b))
